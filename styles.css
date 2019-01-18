@@ -10,8 +10,8 @@ body {
     width: 15%
   }
 #TopNBAPlayers{
-  margin-left: 600px;
-  margin-right: 600px;
+  margin-left: 500px;
+  margin-right: 500px;
 }
 
 #Curry{
@@ -53,7 +53,7 @@ h4 {
   position: sticky;
   top: 0;
   background-color: rgb(54, 63, 153);
-  padding: 10px;
+  padding: 7px;
   font-size: 20px;
 }
 
